@@ -4,6 +4,7 @@ public class ExemploInstanciaObjeto {
 
     public static void main(String[] args) {
 
+        //cria um objeto da classe Pessoa
         Pessoa pessoa = new Pessoa();
 
         System.out.println(pessoa.getNome());
